@@ -1,0 +1,6 @@
+*.orig
+*.rej
+config.h
+slstatus
+slstatus.o
+util.o
